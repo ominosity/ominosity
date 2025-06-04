@@ -11,7 +11,7 @@ My name is Richard Burgener, and I'd like to formally welcome you to my GitHub p
 * ⚙️I'm working towards a Bachelor of Applied Science in Software Development from <a href="https://www.byupathway.edu/" target="_blank">BYU Pathways (and BYU Idaho)</a>
 * 🏗️As the quote suggests, what I love most about development is creating new things. In particular, I love creating new tools that help others accomplish their goals easier and in more meaningful ways
 * 🔃I strive towards continuous improvement, both in my self and in my work. I'm always interested in learning new things and making good things better
-* 🏅I believe in the value of Teamwork. I believe the most productive teams are those where members focus on helping each other at least as much as 'doing their job.' Nobody alone can accomplish what a cohesive team can, no matter how talented or experienced they are
+* 🏅I believe in the value of teamwork. I believe the most productive teams are those where members focus on helping each other at least as much as 'doing their job.' Nobody alone can accomplish what a cohesive team can, no matter how talented or experienced they are
 * ✍️Though I have limited formal education in it (thus far), I am passionate about writing good technical documentation. Things that aren't written down aren't remembered. Having knowledge in your mind is great, but if you can't share that with others, then it dies with you
 
 ## My Current Skills and Experience
