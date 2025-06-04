@@ -41,7 +41,7 @@ Just as a gardener has a favorite trowel, a developer has favorite interface. Th
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 ## Gaming
-Growing up, I dreamt of one-day becoming a video game designer. Life had other plans and I love working on more 'productive' projects, but the gamer lives on in my heart!\
+Growing up, I dreamt of one-day becoming a video game designer. Life had other plans and I love working on more 'productive' projects, but the gamer lives on in my heart!
 
 ![NES/SNES](https://img.shields.io/badge/NES-SNES-a0a0a0?style=for-the-badge&Color=black?lable=4d4d4d)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
